@@ -1,0 +1,20 @@
+{
+  "name": "sgbi-tokko",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "Juan Manuel Goñi <juanmanugoni@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "@types/node": "^20.2.3",
+    "ts-node": "^10.9.1"
+  }
+}
